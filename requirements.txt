@@ -1,0 +1,16 @@
+streamlit==1.32.0
+beautifulsoup4==4.12.3
+requests==2.31.0
+nltk==3.8.1
+python-dotenv==1.0.1
+fastapi==0.110.0
+uvicorn==0.27.1
+pydantic==2.6.3
+textblob==0.17.1
+newsapi-python==0.2.7
+gtts==2.5.1
+transformers==4.37.2
+torch==2.2.0
+pandas==2.2.0
+plotly==5.18.0
+
